@@ -100,3 +100,4 @@ C:\Users\HPE\Documents\QuadraticSolverProject\QuadraticSolver.Tests\obj\Debug\ne
 C:\Users\HPE\Documents\QuadraticSolverProject\QuadraticSolver.Tests\obj\Debug\net9.0\QuadraticSolver.Tests.pdb
 C:\Users\HPE\Documents\QuadraticSolverProject\QuadraticSolver.Tests\obj\Debug\net9.0\QuadraticSolver.Tests.genruntimeconfig.cache
 C:\Users\HPE\Documents\QuadraticSolverProject\QuadraticSolver.Tests\obj\Debug\net9.0\ref\QuadraticSolver.Tests.dll
+C:\Users\HPE\Documents\QuadraticSolverProject\QuadraticSolver.Tests\obj\Debug\net9.0\QuadraticSolver.Tests.sourcelink.json

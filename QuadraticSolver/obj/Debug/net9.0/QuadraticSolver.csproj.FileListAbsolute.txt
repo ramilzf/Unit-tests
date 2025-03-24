@@ -9,3 +9,4 @@ C:\Users\HPE\Documents\QuadraticSolverProject\QuadraticSolver\obj\Debug\net9.0\Q
 C:\Users\HPE\Documents\QuadraticSolverProject\QuadraticSolver\obj\Debug\net9.0\refint\QuadraticSolver.dll
 C:\Users\HPE\Documents\QuadraticSolverProject\QuadraticSolver\obj\Debug\net9.0\QuadraticSolver.pdb
 C:\Users\HPE\Documents\QuadraticSolverProject\QuadraticSolver\obj\Debug\net9.0\ref\QuadraticSolver.dll
+C:\Users\HPE\Documents\QuadraticSolverProject\QuadraticSolver\obj\Debug\net9.0\QuadraticSolver.sourcelink.json
